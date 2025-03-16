@@ -15,8 +15,8 @@ Users should be able to:
 
 ![](./preview.jpg)
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: (https://github.com/Lapupeh/Newsletter-Signup.git)
+- Live Site URL: (https://tourmaline-pudding-217309.netlify.app/)
 
 ### Built with
 
